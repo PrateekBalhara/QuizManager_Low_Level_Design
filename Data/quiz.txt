@@ -1,0 +1,10 @@
+1,2,1
+1,Who am i?,2,Mortal,God,2
+2,1,2
+1,Who am i?,2,God,Human,1
+2,Do you like Java?,4,No,No,Definitely No,Java is crap,3
+1,5,2
+1,How old is Java?,2,Very old,As young as me ,1
+2,When does semester end?,3,Today,23rd,Never,2
+1,2,1
+1,What is polymorphism?,2,I dont know.,i know,1
